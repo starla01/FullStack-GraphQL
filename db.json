@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "24",
+      "firstName": "Fernando Robles Rivera",
+      "age": 33,
+      "companyId": 2
+    },
+    {
+      "id": "25",
+      "firstName": "Nancy Botello Carmona",
+      "age": 34,
+      "companyId": 3
+    },
+    {
+      "id": "26",
+      "firstName": "Pimpoyita Carmona",
+      "age": 34,
+      "companyId": 4
+    },
+    {
+      "id": "27",
+      "firstName": "Teresa Carmona",
+      "age": 34,
+      "companyId": 4
+    },
+    {
+      "id": "28",
+      "firstName": "Adan Israel Resendiz",
+      "age": 36,
+      "companyId": 5
+    },
+    {
+      "id": "29",
+      "firstName": "Gerardo Rivera Corpus",
+      "age": 33,
+      "companyId": 6
+    },
+    {
+      "id": "30",
+      "firstName": "Adriana Becerril Echeverria",
+      "age": 28,
+      "companyId": 2
+    },
+    {
+      "id": "31",
+      "firstName": "ArisBeth Aremi",
+      "age": 28,
+      "companyId": 2
+    },
+    {
+      "id": "32",
+      "firstName": "Rodrigo Primero Zenon",
+      "age": 28,
+      "companyId": 2
+    },
+    {
+      "firstName": "Adriana Botello Carmona",
+      "age": 33,
+      "id": "YzS9xjq",
+      "companyId": "4"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "DIF",
+      "description": "social networks of people"
+    },
+    {
+      "id": "2",
+      "name": "Walmart Labs",
+      "description": "Software Engineer"
+    },
+    {
+      "id": "3",
+      "name": "House",
+      "description": "House activities"
+    },
+    {
+      "id": "4",
+      "name": "Hyundai Company",
+      "description": "Car Sellers"
+    },
+    {
+      "id": "5",
+      "name": "Data Consulting",
+      "description": "Software Engineer"
+    },
+    {
+      "id": "6",
+      "name": "SA Secure",
+      "description": "Social Security"
+    }
+  ]
+}
